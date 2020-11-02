@@ -22,7 +22,6 @@
 
 		#wrap
 		{
-			width: 450px;
 			height:830px;
 			position: absolute;
 			overflow: hidden;
@@ -76,7 +75,7 @@
 		}
 		.box>ul>li
 		{
-			width:30%; 
+			width:27%; 
 			margin-top:50px;
 			display:inline-block;
 
